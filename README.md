@@ -4,8 +4,8 @@
   
   ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=handshake&logoColor=white)
   ![Data Enthusiast](https://img.shields.io/badge/Data%20Enthusiast-100%25-blue?style=flat-square&logo=googleanalytics&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-Building%20Dashboards-blueviolet?style=flat-square&logo=rocket&logoColor=white)
-  ![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
+![Status](https://img.shields.io/badge/Status-Extracting%20Insights-blueviolet?style=flat-square&logo=rocket&logoColor=white)
+![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
 
 </div>
 
