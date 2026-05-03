@@ -5,7 +5,6 @@
   ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=handshake&logoColor=white)
   ![Data Enthusiast](https://img.shields.io/badge/Data%20Enthusiast-100%25-blue?style=flat-square&logo=googleanalytics&logoColor=white)
   ![Status](https://img.shields.io/badge/Status-Building%20Dashboards-blueviolet?style=flat-square&logo=rocket&logoColor=white)
-  ![GitHub followers](https://img.shields.io/github/followers/harshgholap05?label=Followers&style=flat-square&color=blue)
   ![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
 
 </div>
@@ -23,15 +22,12 @@
         
 ```yaml
 name: Harshvardhan Gholap
-role: Data Analyst & GenAI Builder
+role: Data Analyst Automation
 expertise:
   - Data Visualization & Storytelling
   - Relational Database Engineering
   - Generative AI (Llama3, Groq)
   - Real-time Analytics & Dashboards
-currently_learning:
-  - Advanced LLM Integrations
-  - Predictive Analytics
 mission: Turning messy data into clean decisions 📊
 Finance Enthusiast:
       Certified: NISM
@@ -54,6 +50,7 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 * **Major:** B.Tech Computer Science Engineering (Undergraduate)
 * **Institution:** Parul University
 * **Passion:** Building real-world data pipelines, interactive dashboards, and GenAI solutions
+* **Work Experience:** Reliance Industry Intern
 
 ---
 
@@ -62,15 +59,11 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 ### 📊 Data Analytics & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### 🔤 Programming & Databases
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Python Basic](https://img.shields.io/badge/Python_Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 AI & Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -101,7 +94,7 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 ## 💼 Experience
 
 ### 🏢 Reliance Industries Limited | Data Analyst Intern
-*(Jan 2022 – April 2022)*
+*(Jan 2026 – April 2026)*
 - Built a GenAI chatbot converting text to SQL using Llama3 (local) & Grok (cloud).
 - Implemented SQL Server with secure query execution and schema-aware prompt engineering.
 - Delivered real-time insights & visualizations for non-technical users.
@@ -115,17 +108,11 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 
 <table>
   <tr>
-    <td width="25%">
+    <td width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshgholap05&theme=radical&hide_border=true" width="100%" style="max-height:200px" />
     </td>
-    <td width="25%">
+    <td width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshgholap05&theme=radical" width="100%" style="max-height:200px" />
-    </td>
-    <td width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshgholap05&theme=radical&exclude=Jupyter%20Notebook" width="100%" style="max-height:200px" />
-    </td>
-    <td width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshgholap05&theme=radical&exclude=Jupyter%20Notebook" width="100%" style="max-height:200px" />
     </td>
   </tr>
 </table>
@@ -138,26 +125,13 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 
 | 🎖️ Achievement | 📜 Category | 📅 Status |
 |---|---|---|
-| 🏅 [NISM Certification](https://github.com/harshgholap05/Certificate) | Financial Markets & Securities | Certified |
-| 🏦 Reliance Industries Internship | Data Analytics & Automation | Apr 2022 |
-| 🤖 GenAI Data Agent Development | AI Integration | 2024 |
+| 🏦 Reliance Industry Intern | Data Analytics & Automation | Apr 2026 |
+| 📊 Power BI Certificate | Data Visualization | Certified |
+| 🗄️ SQL | Database Management | Certified |
+| 📉 Excel | Data Analysis | Certified |
+| 🏅 [NISM Certified Series 8](https://github.com/harshgholap05/Certificate) | Financial Markets & Securities | Dec 2024 |
 
 > 🔗 **[View all my original certificates here](https://github.com/harshgholap05/Certificate)**
-
----
-
-## 🌱 What I'm Learning & Goals
-
-* 🤖 Advanced LLM Integrations for Data Engineering
-* 📈 Predictive Analytics & Financial Modeling
-* 🚀 End-to-end Data Pipeline Automation
-
-### 🎯 2026 Goals
-
-- [ ] Deploy multiple real-time Analytics Dashboards
-- [ ] Contribute to Open Source GenAI Data tools
-- [ ] Master advanced data architecture
-- [ ] Create impactful business intelligence solutions
 
 ---
 
