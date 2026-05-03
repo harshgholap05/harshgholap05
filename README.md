@@ -93,7 +93,7 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 
 ## 💼 Experience
 
-### 🏢 Reliance Industries Limited | Data Analyst Intern
+### 🏢 Reliance Industries Limited | Data Analyst Automation Intern
 *(Jan 2026 – April 2026)*
 - Built a GenAI chatbot converting text to SQL using Llama3 (local) & Grok (cloud).
 - Implemented SQL Server with secure query execution and schema-aware prompt engineering.
