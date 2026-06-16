@@ -63,7 +63,7 @@ A passionate **Data Analyst** diving deep into **Financial Analytics and Generat
 ### 🔤 Programming & Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Python Basic](https://img.shields.io/badge/Python_Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Basic-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 AI & Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
