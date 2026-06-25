@@ -7,6 +7,10 @@
 ![Status](https://img.shields.io/badge/Status-Extracting%20Insights-blueviolet?style=flat-square&logo=rocket&logoColor=white)
 ![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
 
+## 🌐 Portfolio
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.harshgholap.site)
+
 </div>
 <br>
 
