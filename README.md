@@ -6,9 +6,9 @@
   ![Data Enthusiast](https://img.shields.io/badge/Data%20Enthusiast-100%25-blue?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Extracting%20Insights-blueviolet?style=flat-square&logo=rocket&logoColor=white)
 ![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.harshgholap.site)
 
 </div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.harshgholap.site)
 
 <br>
 
