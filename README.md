@@ -8,9 +8,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/harshgholap05?label=Stars&style=flat-square&color=yellow)
 
 </div>
-<div
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.harshgholap.site)
-</div>
 <br>
 
 <div align="center">
