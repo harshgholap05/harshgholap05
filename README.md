@@ -1,5 +1,4 @@
-# 🚀 Harshvardhan Gholap | Data Analyst 
-
+<h1 align="center">🚀 Harshvardhan Gholap | Data Analyst</h1>
 <div align="center">
   
   ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square&logo=handshake&logoColor=white)
